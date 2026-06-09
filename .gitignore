@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs grandes (opcional - manter se quiser)
+# outputs/*.xlsx

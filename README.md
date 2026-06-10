@@ -6,7 +6,7 @@ Análise exploratória do mercado global de empregos em Inteligência Artificial
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-orange)
 ![DuckDB](https://img.shields.io/badge/DuckDB-SQL-yellow)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboard-blueviolet)
+![Data Studio](https://img.shields.io/badge/Looker_Studio-Dashboard-blueviolet)
 
 ---
 
